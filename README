@@ -1,0 +1,19 @@
+rim_project - "3DES cryptography algorithm on FPGA"
+
+GOAL: Create a functional block on FPGA that implements 3DES cryptography algorithm in VHDL
+
+HARDWARE: Spartan-3AN Starter Kit
+
+FPGA: Xilinx Spartan XC3S700AN
+
+SOFTWARE:
+* git - http://git-scm.com/
+* Planner - https://wiki.gnome.org/Planner/Downloads
+
+TODO:
+1. Implementation in C++ with division on elementary operations (due to 10.11.2013);
+2. Creating the functional schematics (due to 14.11.2013);
+3. Implementing core (due to 08.12.2013);
+4. Testing (due to 13.12.2013);
+5. Writing documentation (due to 18.12.2013).
+
