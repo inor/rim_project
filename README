@@ -9,6 +9,7 @@ FPGA: Xilinx Spartan XC3S700AN
 SOFTWARE:
 * git - http://git-scm.com/
 * Planner - https://wiki.gnome.org/Planner/Downloads
+* ISE Design Tools 14.7 - http://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
 
 MANUALS:
 *fips46-3.pdf - DES documentation
@@ -18,3 +19,16 @@ TODO:
 2. Testing (due to 13.12.2013);
 3. Writing documentation (due to 18.12.2013).
 
+WORK:
+*1 stage - round function for DES*
+Eugeniusz Drozdov:
+1. E function - DONE;
+2. P function - DONE;
+3. Linking all the blocks.
+
+Konrad Neneman:
+1. S1...S8 functions.
+
+Kamil Dziezyk:
+1. K function.
+*********************************
